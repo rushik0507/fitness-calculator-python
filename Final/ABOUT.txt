@@ -1,0 +1,15 @@
+
+
+Project Name = Fitness Calculator using Tkinter as a Python Gui
+
+
+Submitted to = Nidhi Arora Mam
+
+
+Submitted by =  Utkarsh singh(11603042)
+                Rushik Patel (12112228)
+                Avneesh Narwal(12107455)
+
+
+
+------------------------LOVELY PROFESSIONAL UNIVERSITY------------------------ 
